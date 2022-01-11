@@ -15,10 +15,9 @@ Imagem da tela para Dimensionamento padrão
 Neste é mostrado uma tela semi-transparente redimensionavel a fim de sobrepor uma imagem do tipo png e ir 
 capturando os valores dos futuros widgets
 
-Função com erro no código
-![image](https://user-images.githubusercontent.com/97365905/148665384-68c18d8d-e1eb-46a3-abf1-97d4867e292f.png)
-No botão "Importar Imagem", copia e cole o caminho da imagem no campo de edição de textos (Entry)
-Nesta função existe um erro, pois ao importar a imagem, os widgets movimentam no eixo x 
+Função com erro resolvido pelo Hashtag no código
+![image](https://user-images.githubusercontent.com/97365905/148969547-a84c34aa-377e-4a12-bddc-667477050c81.png)
+
 
 
 
