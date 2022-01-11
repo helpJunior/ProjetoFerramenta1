@@ -1,6 +1,6 @@
 # Tilex
- Ferramenta para capturar dos códigos das cores ASCII e dimensionamento dos wigets - da Biblioteca Tkinter/Python
- A idéia é visualizar e capturar o código de cores ASCII e também, dimensionar a geometria da tela (geometry) e os widgets (Buttons, Label, Entry...)
+ Ferramenta para capturar dos códigos das cores ASCII e dimensionamento dos widgets - da Biblioteca Tkinter/Python
+ A idéia é visualizar e capturar o código de cores ASCII e também, dimensionar a geometria da tela (geometry) e os widgets (Button, Label, Entry...)
  
  A tela principal da ferramento foi desenhada no www.canva.com - online 
  *******
@@ -16,7 +16,8 @@ Neste é mostrado uma tela semi-transparente redimensionavel a fim de sobrepor u
 capturando os valores dos futuros widgets
 
 Função com erro resolvido pelo Hashtag no código
-![image](https://user-images.githubusercontent.com/97365905/148969547-a84c34aa-377e-4a12-bddc-667477050c81.png)
+![image](https://user-images.githubusercontent.com/97365905/148970087-7eb14ca5-21d5-4e14-9741-a0d6c2ca07b4.png)
+Neste a imagem importada, consegue-se dimenciar os widgets e a geomentria da tela
 
 
 
