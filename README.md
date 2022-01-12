@@ -15,7 +15,7 @@ Imagem da tela para Dimensionamento padrão
 Neste é mostrado uma tela semi-transparente redimensionavel a fim de sobrepor uma imagem do tipo png e ir 
 capturando os valores dos futuros widgets
 
-Função com erro resolvido pelo Hashtag no código
+Importando imagem de qualquer pasta do seu desktop
 ![image](https://user-images.githubusercontent.com/97365905/148970087-7eb14ca5-21d5-4e14-9741-a0d6c2ca07b4.png)
 Neste a imagem importada, consegue-se dimenciar os widgets e a geomentria da tela
 
